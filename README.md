@@ -11,6 +11,7 @@ Out of curiosity, I visualised some of the basic statistics based on the spread 
 - How are the overall public sentiment towards this particular trending topic?
 
 References for code include:
+
 https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
 
 https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
