@@ -76,7 +76,7 @@ def cleanTxt(text):
     
     return text
 
-# Add two columns with year and month information
+# Add new columns with year, month, day, and hour information
 tilik['Datetime'] = pd.to_datetime(tilik['Datetime'])
 tilik['year'] = tilik['Datetime'].dt.year
 tilik['month'] = tilik['Datetime'].dt.month
